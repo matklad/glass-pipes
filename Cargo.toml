@@ -1,0 +1,8 @@
+[package]
+name = "glass-pipes"
+version = "0.1.0"
+authors = ["Aleksey Kladov <aleksey.kladov@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossbeam = "0.7.1"
